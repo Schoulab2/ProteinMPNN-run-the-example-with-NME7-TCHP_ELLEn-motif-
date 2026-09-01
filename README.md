@@ -24,7 +24,7 @@
 
 ---
 
-## 1. Prepare structural template (AF3 model)
+## 1. Prepare structural template (AF2 model)
 
 An AlphaFold2 model of human NME7 and TCHP was used as the starting structure.
 
