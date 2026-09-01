@@ -17,7 +17,7 @@
 
 ## Overview
 
-	- The following example FlexPepDock run uses NME7 as receptor with TCHP-derived ELLEn peptide motif (DOI:  10.1038/s41467-024-46737-3:) as template binder.
+	- The following example ProteinMPNN run uses NME7 as receptor with TCHP-derived ELLEn peptide motif (DOI:  10.1038/s41467-024-46737-3:) as template binder.
 	- Template: AlphaFold3 (AF3) model
 	- Software: PyMOL + ProteinMPNN
 	- Goal: Refine peptide–protein interaction and redesign peptide sequence
