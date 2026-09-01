@@ -3,7 +3,7 @@
 ## Table of Contents
 
 	- [Overview](#overview)
-	- [1. Prepare structural template (AlphaFold2 model)](#1-prepare-structural-template-af3-model)
+	- [1. Prepare structural template (AlphaFold3 model)](#1-prepare-structural-template-af3-model)
 	- [2. Isolate peptide and receptor in PyMOL](#2-isolate-peptide-and-receptor-in-pymol)
 	- [3. Rename objects](#3-rename-objects)
 	- [4. Define chains](#4-define-chains)
@@ -24,9 +24,9 @@
 
 ---
 
-## 1. Prepare structural template (AF2 model)
+## 1. Prepare structural template (AF3 model)
 
-An AlphaFold2 model of human NME7 and TCHP was used as the starting structure.
+An AlphaFold3 model of human NME7 and TCHP was used as the starting structure.
 
 ---
 
