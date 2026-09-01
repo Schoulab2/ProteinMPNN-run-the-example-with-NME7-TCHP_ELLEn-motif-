@@ -111,8 +111,8 @@ SLEERKEKLAKLLAEEEKRNKELLA
 
 ## 10. Result
 
-	- ProteinMPNN generated redesigned peptide–protein sequence 
-	- Output structures were written to NME7_ELLEn/proteinmpnn_out /
+	- ProteinMPNN generated redesigned peptide sequences for chain B 
+	- Output sequences were written to NME7_ELLEn/proteinmpnn_out/
 	- Chain A (NME7) was used as receptor
 	- Chain B (ELLEn) was treated as peptide
 	- ProteinMPNN successfully redesigned chain B
