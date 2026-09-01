@@ -73,7 +73,9 @@ mkdir -p proteinmpnn_out
 
 ---
 
-## 8. Run ProteinMPNN redesign with NME7_chainA_ELLEn_chainB.pdb input structure, chain B peptide binder template, perform sequence redesign on fixed backbone using chain B as target while keeping chain A fixed as structural context, and the generation of 10 redesigned model only (as an example). Results deposited in proteinmpnn_out folder
+## 8. Run ProteinMPNN redesign
+
+Using NME7_chainA_ELLEn_chainB.pdb as input, chain B was redesigned while chain A was kept fixed as structural context. Ten redesigned sequences were generated and saved to the proteinmpnn_out folder.
 
 mamba activate torch_cuda_env
 cd /home/kensch/ProteinMPNN
